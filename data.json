@@ -1,0 +1,200 @@
+[
+  {
+    "nome": "Descomplica",
+    "descricao": "Plataforma online com aulas, exercícios e monitorias para Enem e vestibulares.",
+    "data_criacao": 2011,
+    "link": "https://www.descomplica.com.br"
+  },
+  {
+    "nome": "Stoodi",
+    "descricao": "Cursos online para Enem e vestibulares com videoaulas, exercícios e correção de redação.",
+    "data_criacao": 2013,
+    "link": "https://www.stoodi.com.br"
+  },
+  {
+    "nome": "Me Salva!",
+    "descricao": "Plataforma de estudos com foco em exatas, mas que abrange todas as matérias para vestibular e Enem.",
+    "data_criacao": 2012,
+    "link": "https://mesalva.com"
+  },
+  {
+    "nome": "Brasil Escola",
+    "descricao": "Portal de conteúdo educacional com artigos, exercícios e dicas para estudantes.",
+    "data_criacao": 2002,
+    "link": "https://brasilescola.uol.com.br"
+  },
+  {
+    "nome": "Khan Academy",
+    "descricao": "Organização educacional sem fins lucrativos que oferece aulas e exercícios gratuitos de diversas matérias.",
+    "data_criacao": 2008,
+    "link": "https://pt.khanacademy.org"
+  },
+  {
+    "nome": "Guia do Estudante",
+    "descricao": "Portal com notícias, dicas de estudo, informações sobre cursos e universidades.",
+    "data_criacao": 1987,
+    "link": "https://guiadoestudante.abril.com.br"
+  },
+  {
+    "nome": "ProEnem",
+    "descricao": "Curso pré-vestibular online focado no Enem, com aulas ao vivo, materiais de apoio e simulados.",
+    "data_criacao": 2014,
+    "link": "https://www.proenem.com.br"
+  },
+  {
+    "nome": "Mundo Vestibular",
+    "descricao": "Portal com notícias, dicas, simulados e informações sobre os principais vestibulares do país.",
+    "data_criacao": 2006,
+    "link": "https://www.mundovestibular.com.br"
+  },
+  {
+    "nome": "Projeto Medicina",
+    "descricao": "Focado em simulados, provas antigas e material aprofundado para vestibulandos, especialmente para carreiras concorridas.",
+    "data_criacao": "2000",
+    "link": "https://www.projetomedicina.com.br"
+  },
+  {
+    "nome": "Redação Nota 1000",
+    "descricao": "Plataforma especializada na correção de redações no formato ENEM, oferecendo feedback detalhado e planos de estudo.",
+    "data_criacao": "2015",
+    "link": "https://www.redacaonota1000.com.br"
+  },
+  {
+    "nome": "QG do ENEM",
+    "descricao": "Cursos preparatórios online e intensivos, com foco em planejamento de estudos e aulas ao vivo.",
+    "data_criacao": "2012",
+    "link": "https://www.qgdoenem.com.br"
+  },
+  {
+    "nome": "Aulalivre",
+    "descricao": "Oferece milhares de vídeo aulas e exercícios preparatórios para ENEM e diversos vestibulares estaduais.",
+    "data_criacao": "2010",
+    "link": "https://www.aulalivre.net"
+  },
+  {
+    "nome": "Biologia Total (Prof. Jubilut)",
+    "descricao": "Conteúdo especializado e aprofundado em Biologia, com foco nas demandas do ENEM e grandes vestibulares.",
+    "data_criacao": "2014",
+    "link": "https://www.biologiatotal.com.br"
+  },
+  {
+    "nome": "Física Interativa (Prof. Boaro)",
+    "descricao": "Canal e site com foco em vídeo aulas de Física e resolução de exercícios complexos de forma didática.",
+    "data_criacao": "2016",
+    "link": "https://www.fisicainterativa.com"
+  },
+  {
+    "nome": "Matemática Rio (Prof. Rafael Procópio)",
+    "descricao": "Plataforma e canal focado em simplificar a Matemática básica e avançada, com ênfase em raciocínio lógico.",
+    "data_criacao": "2015",
+    "link": "https://www.matematicario.com.br"
+  },
+  {
+    "nome": "Portal da Obmep",
+    "descricao": "Material oficial de estudo da Olimpíada Brasileira de Matemática, excelente para aprofundamento e desafios.",
+    "data_criacao": "2005",
+    "link": "https://portaldamatematica.obmep.org.br"
+  },
+  {
+    "nome": "Google Scholar",
+    "descricao": "Mecanismo de busca do Google focado em literatura acadêmica, útil para referências e argumentos de redação.",
+    "data_criacao": "2004",
+    "link": "https://scholar.google.com"
+  },
+  {
+    "nome": "ChatGPT (OpenAI)",
+    "descricao": "Modelo de linguagem de IA usado como ferramenta auxiliar para resumir textos, tirar dúvidas rápidas e gerar ideias.",
+    "data_criacao": "2022",
+    "link": "https://chat.openai.com"
+  },
+  {
+    "nome": "Duolingo",
+    "descricao": "Aplicativo gamificado para aprendizado e prática de idiomas (Inglês e Espanhol), relevante para a seção de Linguagens.",
+    "data_criacao": "2011",
+    "link": "https://www.duolingo.com"
+  },
+  {
+    "nome": "Anki",
+    "descricao": "Software de repetição espaçada utilizado para a criação e revisão de flashcards, otimizando a memorização de grandes volumes de informação.",
+    "data_criacao": "2006",
+    "link": "https://apps.ankiweb.net"
+  },
+  {
+    "nome": "Quizlet",
+    "descricao": "Ferramenta online para criação de flashcards, testes e jogos de estudo colaborativos em diversas disciplinas.",
+    "data_criacao": "2005",
+    "link": "https://quizlet.com"
+  },
+  {
+    "nome": "Coursera",
+    "descricao": "Plataforma de cursos abertos online (MOOCs) de universidades renomadas, oferecendo aprofundamento em tópicos específicos.",
+    "data_criacao": "2012",
+    "link": "https://www.coursera.org"
+  },
+  {
+    "nome": "TED-Ed",
+    "descricao": "Coleção de vídeos educativos curtos e animados, ideais para explorar conceitos complexos de ciências e humanidades.",
+    "data_criacao": "2012",
+    "link": "https://ed.ted.com"
+  },
+  {
+    "nome": "Toda Matéria",
+    "descricao": "Portal que oferece resumos concisos e artigos de referência sobre todas as disciplinas do ensino médio.",
+    "data_criacao": "2014",
+    "link": "https://www.todamateria.com.br"
+  },
+  {
+    "nome": "Só Geografia",
+    "descricao": "Site especializado em conteúdo de Geografia física, humana e ambiental, com foco em geopolítica e atualidades.",
+    "data_criacao": "2008",
+    "link": "https://www.sogeografia.com.br"
+  },
+  {
+    "nome": "Só História",
+    "descricao": "Portal de referência em História Geral e História do Brasil, com linha do tempo e materiais didáticos.",
+    "data_criacao": "2005",
+    "link": "https://www.sohistoria.com.br"
+  },
+  {
+    "nome": "Portal Inep",
+    "descricao": "Fonte oficial de informações, documentos, matrizes de referência e acesso às provas e gabaritos do ENEM de anos anteriores.",
+    "data_criacao": "1997",
+    "link": "https://www.gov.br/inep"
+  },
+  {
+    "nome": "MindMeister",
+    "descricao": "Ferramenta online para a criação colaborativa de mapas mentais, auxiliando na organização visual de conceitos e revisões.",
+    "data_criacao": "2007",
+    "link": "https://www.mindmeister.com"
+  },
+  {
+    "nome": "Youtube Educação",
+    "descricao": "Vasto repositório de vídeo aulas de canais especializados, abrangendo todas as áreas do conhecimento para o vestibular.",
+    "data_criacao": "2013",
+    "link": "https://www.youtube.com/education"
+  },
+  {
+    "nome": "Legislação Simplificada",
+    "descricao": "Site focado em descomplicar leis e conceitos sociais relevantes que frequentemente são temas de redação e questões de humanas.",
+    "data_criacao": "2017",
+    "link": "https://legislacaosimplificada.com.br"
+  },
+  {
+    "nome": "Cursos Vunesp",
+    "descricao": "Plataforma que oferece cursos preparatórios e simulados específicos para os grandes vestibulares administrados pela Vunesp (como Unesp e Faculdades de Medicina).",
+    "data_criacao": "2018",
+    "link": "https://cursos.vunesp.com.br"
+  },
+  {
+    "nome": "Ciberdúvidas da Língua Portuguesa",
+    "descricao": "Recurso online focado em esclarecer dúvidas complexas sobre gramática, ortografia e norma culta, essencial para redação.",
+    "data_criacao": "1997",
+    "link": "https://ciberduvidas.iscte-iul.pt"
+  },
+  {
+    "nome": "StudySmarter",
+    "descricao": "Plataforma de estudo que combina planejamento, criação automática de flashcards e resumos baseados em documentos.",
+    "data_criacao": "2018",
+    "link": "https://www.studysmarter.de/pt"
+  }
+]
