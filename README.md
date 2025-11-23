@@ -35,23 +35,6 @@ O usuário pesquisa por uma matéria ou tema e encontra diversas recomendações
 
 ---
 
-## 🚧 Status do Projeto
-
-🔹 **Em desenvolvimento**  
-Novas funcionalidades, mais conteúdos e aprimoramentos da interface serão adicionados em breve!
-
----
-
-## 💡 Futuras Implementações
-
-- 🔎 Filtro inteligente de busca por áreas e temas  
-- 👤 Área do usuário com login e progresso  
-- ⭐ Sistema de recomendações personalizadas  
-- 📱 Versão mobile totalmente otimizada  
-- 🔔 Notificações e lista de estudos  
-
----
-
 ## 🙌 Contribuições
 
 Contribuições são muito bem-vindas!  
